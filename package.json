@@ -1,0 +1,19 @@
+{
+  "name": "final-project-flight-booking-system",
+  "version": "1.0.0",
+  "description": "\" new flight booking app\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdfayaz/project.git"
+  },
+  "author": "Mohammed Fayaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdfayaz/project/issues"
+  },
+  "homepage": "https://github.com/Mohdfayaz/project#readme"
+}
